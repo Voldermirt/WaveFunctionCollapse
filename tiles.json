@@ -1,0 +1,57 @@
+{
+    "note": "The Circles Tileset (and the algorithm) by Maxim Gumin. https://github.com/mxgmn/WaveFunctionCollapse",
+    "unused-tiles": [
+        {
+            "fname": "Circles/b_half.png",
+            "transform": "rot-4",
+            "indexes": [1, 0, 0, 0]
+        },
+        {
+            "fname": "Circles/b_i.png",
+            "transform": "rot-2",
+            "indexes": [1, 0, 1, 0]
+        },
+        {
+            "fname": "Circles/b_quarter.png",
+            "transform": "rot-4",
+            "indexes": [1, 1, 0, 0]
+        },
+        {
+            "fname": "Circles/b.png",
+            "transform": "none",
+            "indexes": [1, 1, 1, 1]
+        },
+        {
+            "fname": "Circles/w_half.png",
+            "transform": "rot-4",
+            "indexes": [0, 1, 1, 1]
+        },
+        {
+            "fname": "Circles/w_i.png",
+            "transform": "rot-2",
+            "indexes": [0, 1, 0, 1]
+        },
+        {
+            "fname": "Circles/w_quarter.png",
+            "transform": "rot-4",
+            "indexes": [0, 0, 1, 1]
+        },
+        {
+            "fname": "Circles/w.png",
+            "transform": "none",
+            "indexes": [0, 0, 0, 0]
+        }
+    ],
+    "tiles": [
+        {
+            "fname": "tile_t.png",
+            "transform": "rot-4",
+            "indexes": [1, 1, 0, 1]
+        },
+        {
+            "fname": "tile_l.png",
+            "transform": "rot-4",
+            "indexes": [1, 1, 0, 0]
+        }
+    ]
+}
